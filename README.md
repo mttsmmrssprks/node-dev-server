@@ -6,8 +6,8 @@
 
 
 
-<p align="center" style="max-width: 100px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="width: 150px;" alt="Node logo">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width=150px alt="Node logo">
 </p>
 
 # Start dev environment
