@@ -14,11 +14,9 @@
 
 Start dev environment:
 
-```npx nodemon ./site/dev-server.js --ext js,html,css,md
 ```
-
-[![NPM version](https://badge.fury.io/js/nodemon.svg)](https://npmjs.org/package/nodemon)
-[![Travis Status](https://travis-ci.org/remy/nodemon.svg?branch=master)](https://travis-ci.org/remy/nodemon) [![Backers on Open Collective](https://opencollective.com/nodemon/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/nodemon/sponsors/badge.svg)](#sponsors)
+npx nodemon ./site/dev-server.js --ext js,html,css,md
+```
 
 # The site is accessible from:
 
